@@ -1,0 +1,7 @@
+name: Canvas Big
+canvasSize: 30
+size: 6
+type: CanvasBlock
+health: 100
+category: logic
+buildVisibility: shown
