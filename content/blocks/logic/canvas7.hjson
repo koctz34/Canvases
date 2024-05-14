@@ -1,7 +1,0 @@
-name: Canvas Realistic
-canvasSize: 30
-size: 2
-type: CanvasBlock
-health: 100
-category: logic
-buildVisibility: shown

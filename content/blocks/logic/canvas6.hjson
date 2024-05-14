@@ -1,7 +1,0 @@
-name: Canvas Micro
-canvasSize: 5
-size: 1
-type: CanvasBlock
-health: 100
-category: logic
-buildVisibility: shown
